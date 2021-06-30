@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages - Wish this was more straight-forward
 
 You can use the [editor on GitHub](https://github.com/isaaco1/coursera_test/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
